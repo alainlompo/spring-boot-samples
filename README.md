@@ -11,7 +11,7 @@ Our first sample illustrates a client server application based on the dolphin fr
 </ul><br/><br/>
 <h3>The Spring Boot's Actuator</h3><br/>
 <p>The Spring boot actuator provides Production quality level monitoring features, metrics and similar features (such as health monitoring informations or request mappings, ...) to Spring Boot Applications: these features can be explored using various approaches namely:
-</p><br/>
+</p>
 <ul>
   <li>REST endpoints</li>
   <li>Java Management Extensions (JMX) [Can be viewed with the jconsole tool]</li>
