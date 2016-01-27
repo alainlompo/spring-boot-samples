@@ -8,8 +8,8 @@ Our first sample illustrates a client server application based on the dolphin fr
   <li><a href="https://github.com/alainlompo/spring-boot-samples/tree/master/spring-boot-actuator-sample">spring boot's actuator's starter sample usage</a></li>
   <li><a href="https://github.com/alainlompo/spring-boot-samples/tree/master/spring-boot-activemq">Spring boot with Apache ActiveMQ</a></li>
   <li><a href="https://github.com/alainlompo/spring-boot-samples/tree/master/grailsWithBootSample">Grails over Spring boot sample</a></li>
-</ul><br/><br/>
-<h3>The Spring Boot's Actuator</h3><br/>
+</ul><br/>
+<h3>The Spring Boot's Actuator</h3>
 <p>The Spring boot actuator provides Production quality level monitoring features, metrics and similar features (such as health monitoring informations or request mappings, ...) to Spring Boot Applications: these features can be explored using various approaches namely:
 </p>
 <ul>
